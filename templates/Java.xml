@@ -1,0 +1,27 @@
+<templateSet group="Java">
+  <template name="syso" value="System.out.printf($WORD$);" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="WORD" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args) {&#10;    $END$        &#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="forv" value="for (int i = 0; i &lt; $items$.length; i++) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="items" expression="iterableVariable()" defaultValue="array" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="forin" value="for ($ELEMENT_TYPE$ $VAR$ : $ITEMS_TYPE$) {&#10;    $END$&#9;&#9;&#9;&#9;&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="ITEMS_TYPE" expression="iterableVariable()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ELEMENT_TYPE" expression="iterableComponentType(ITEMS_TYPE)" defaultValue="" alwaysStopAt="false" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="&quot;item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
