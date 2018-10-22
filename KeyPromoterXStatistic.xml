@@ -33,12 +33,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Relative Path">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -126,7 +134,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat 8.5.31'">
@@ -190,7 +198,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
