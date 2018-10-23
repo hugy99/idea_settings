@@ -6,7 +6,7 @@
           <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Delete'</ShortCut>
           <Description>Clear All</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>44</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -142,7 +142,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat 8.5.31'</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -158,7 +158,7 @@
           <IdeaActionID>SurroundWith</IdeaActionID>
           <ShortCut>'Ctrl+Alt+T'</ShortCut>
           <Description>Surround With...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
