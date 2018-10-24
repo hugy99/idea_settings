@@ -6,7 +6,7 @@
           <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Delete'</ShortCut>
           <Description>Clear All</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -137,14 +137,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'Tomcat 8.5.31'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'Tomcat 8.5.31'</Description>
-          <Count>49</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
@@ -190,7 +182,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -207,6 +199,16 @@
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Stop 'Tomcat 8.5.31'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Tomcat 8.5.31'</Description>
+          <Count>50</Count>
         </Item>
       </Statistic>
     </option>
