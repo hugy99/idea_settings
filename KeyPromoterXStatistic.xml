@@ -14,7 +14,7 @@
           <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Delete'</ShortCut>
           <Description>Clear All</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Application'">
