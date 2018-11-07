@@ -14,7 +14,7 @@
           <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+Delete'</ShortCut>
           <Description>Clear All</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
