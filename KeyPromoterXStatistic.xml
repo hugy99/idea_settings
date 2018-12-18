@@ -121,12 +121,20 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit...">
+        <Item>
+          <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Edit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Evaluate Expression...">
         <Item>
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -182,7 +190,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Project Window">
@@ -215,6 +223,14 @@
           <ShortCut>'Ctrl+Alt+L'</ShortCut>
           <Description>Reformat Code</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Watch">
+        <Item>
+          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove Watch</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -390,7 +406,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>74</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project">
@@ -414,7 +430,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
     </option>
