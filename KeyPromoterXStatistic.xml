@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>28</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -70,7 +70,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -89,6 +89,14 @@
           <Count>32</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'AESUtils'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'AESUtils'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Application'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -102,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'CalculatorApplication'</Description>
-          <Count>11</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tomcat 8.5.31'">
@@ -134,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>369</Count>
+          <Count>379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -142,7 +150,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -182,7 +190,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>59</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -238,7 +246,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>22</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -310,7 +318,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>99</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -319,6 +327,14 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AESUtils.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'AESUtils.main()'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -417,6 +433,14 @@
           <Count>49</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CalculatorApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CalculatorApplication'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FileSendEmsStabilitySectionTaskTest.testSend'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -494,7 +518,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>178</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Tomcat' application">
@@ -510,7 +534,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
