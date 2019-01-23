@@ -105,6 +105,14 @@
           <Count>61</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CalcApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'CalcApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CalculatorApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -334,7 +342,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>10</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AESUtils.main()'">
@@ -441,6 +449,14 @@
           <Count>52</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CalcApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CalcApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CalculatorApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -479,6 +495,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'fselite [clean]'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
