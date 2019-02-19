@@ -358,7 +358,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AESUtils.main()'">
@@ -639,6 +639,22 @@
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="声明(D)">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+ 按钮 1 单击' or ' 按钮 2 单击'</ShortCut>
+          <Description>声明(D)</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="提交(I)...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'Ctrl+K'</ShortCut>
+          <Description>提交(I)...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)">
