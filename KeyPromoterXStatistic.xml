@@ -665,6 +665,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="剪切(T)">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
+          <Description>剪切(T)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="声明(D)">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -695,6 +703,14 @@
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>更新 Project(U)</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="构建项目(P)">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>构建项目(P)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="添加到 VCS">
