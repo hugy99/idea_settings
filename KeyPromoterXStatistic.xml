@@ -582,7 +582,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -641,6 +641,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="停止">
+        <Item>
+          <IdeaActionID>RunDashboard.Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="声明(D)">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -662,7 +670,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>提交(I)...</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)">
