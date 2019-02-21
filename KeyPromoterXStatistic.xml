@@ -70,7 +70,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -711,6 +711,14 @@
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>复制(C)</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="复制路径(O)">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>复制路径(O)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="恢复窗口(W)">
