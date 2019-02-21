@@ -606,7 +606,7 @@
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>
           <ShortCut>'Ctrl+F10'</ShortCut>
           <Description>Update 'Tomcat 8.5.31' application</Description>
-          <Count>1</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Tomcat' application">
@@ -742,7 +742,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>提交(I)...</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)">
