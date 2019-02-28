@@ -702,7 +702,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>删除...(D)</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="剪切(T)">
@@ -785,6 +785,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="查找使用(U)">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+F7'</ShortCut>
+          <Description>查找使用(U)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="添加到 VCS">
         <Item>
           <IdeaActionID>ChangesView.AddUnversioned.From.Dialog</IdeaActionID>
@@ -799,6 +807,22 @@
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>计算表达式...(X)</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="运行(U) 'contextLoads()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>运行(U) 'contextLoads()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="运行(U) 'run()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>运行(U) 'run()'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="重命名...(R)">
