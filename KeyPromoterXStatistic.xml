@@ -582,7 +582,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -657,12 +657,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="停止 'DemoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止 'DemoApplication'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="停止 'Tomcat 8.5.31'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止 'Tomcat 8.5.31'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止 'UsherApplication'">
@@ -758,7 +766,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>提交(I)...</Description>
-          <Count>64</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)">
