@@ -1,13 +1,6 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="999" />
-  <HTMLCodeStyleSettings>
-    <option name="HTML_INLINE_ELEMENTS" value="" />
-  </HTMLCodeStyleSettings>
   <JavaCodeStyleSettings>
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="300" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="800" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="800" />
   </JavaCodeStyleSettings>
-  <codeStyleSettings language="JAVA">
-    <option name="ENUM_CONSTANTS_WRAP" value="2" />
-  </codeStyleSettings>
 </code_scheme>
