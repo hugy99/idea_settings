@@ -678,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止 'Tomcat 8.5.31'</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止 'UsherApplication'">
@@ -702,7 +702,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>关闭所有窗口(W)</Description>
-          <Count>13</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="切换行断点(L)">
@@ -718,7 +718,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>删除...(D)</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="剪切(T)">
@@ -742,7 +742,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>复制(C)</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="复制路径(O)">
@@ -766,7 +766,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>恢复窗口(W)</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="提交(I)...">
