@@ -81,6 +81,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Data Source Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Data Source Properties</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
@@ -774,7 +782,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>更新 Project(U)</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)...">
@@ -846,7 +854,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置...(T)</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="运行(U) 'Tomcat 8.5.31'">
@@ -887,6 +895,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>重新运行</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="项目结构...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>项目结构...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
