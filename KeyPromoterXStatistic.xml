@@ -646,7 +646,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>100</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -678,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止 'Tomcat 8.5.31'</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止 'UsherApplication'">
