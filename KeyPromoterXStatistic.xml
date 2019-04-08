@@ -590,7 +590,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>92</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -694,7 +694,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止 'Tomcat 8.5.31'</Description>
-          <Count>78</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止 'UsherApplication'">
@@ -798,7 +798,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>提交(I)...</Description>
-          <Count>177</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)">
@@ -806,7 +806,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>更新 Project(U)</Description>
-          <Count>132</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)...">
@@ -886,7 +886,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置...(T)</Description>
-          <Count>33</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="运行(U) 'Java8Test.main()'">
