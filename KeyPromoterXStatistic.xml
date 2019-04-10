@@ -686,7 +686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止 'JusticeApplication'</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止 'Tomcat 8.5.31'">
@@ -695,6 +695,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止 'Tomcat 8.5.31'</Description>
           <Count>82</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="停止 'Tomcat'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>停止 'Tomcat'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止 'UsherApplication'">
@@ -806,7 +814,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>更新 Project(U)</Description>
-          <Count>177</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)...">
