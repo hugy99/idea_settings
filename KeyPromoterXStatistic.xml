@@ -806,7 +806,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>提交(I)...</Description>
-          <Count>218</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)">
