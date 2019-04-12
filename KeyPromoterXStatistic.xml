@@ -790,7 +790,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+ 按钮 1 单击'</ShortCut>
           <Description>实现(M)</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="恢复窗口(W)">
@@ -814,7 +814,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>更新 Project(U)</Description>
-          <Count>228</Count>
+          <Count>229</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)...">
