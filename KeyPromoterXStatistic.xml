@@ -590,7 +590,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>111</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -726,7 +726,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>关闭所有窗口(W)</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="切换行断点(L)">
@@ -798,7 +798,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>恢复窗口(W)</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="提交(I)...">
@@ -806,7 +806,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>提交(I)...</Description>
-          <Count>224</Count>
+          <Count>225</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)">
@@ -814,7 +814,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>更新 Project(U)</Description>
-          <Count>225</Count>
+          <Count>226</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)...">
@@ -822,7 +822,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>更新 Project(U)...</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="构建项目(P)">
@@ -878,7 +878,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>粘贴(P)</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="计算表达式...(X)">
@@ -894,7 +894,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置...(T)</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="运行(U) 'Java8Test.main()'">
@@ -974,6 +974,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>重新构建(E) 模块 'fselite'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="重新编译(E) '...izationService.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>重新编译(E) '...izationService.java'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
