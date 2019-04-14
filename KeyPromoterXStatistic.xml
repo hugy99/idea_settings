@@ -358,7 +358,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>133</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -686,7 +686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止 'JusticeApplication'</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止 'Tomcat 8.5.31'">
@@ -726,7 +726,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>关闭所有窗口(W)</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="切换行断点(L)">
@@ -734,7 +734,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>切换行断点(L)</Description>
-          <Count>55</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="删除...(D)">
@@ -798,7 +798,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>恢复窗口(W)</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="提交(I)...">
@@ -814,7 +814,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>更新 Project(U)</Description>
-          <Count>229</Count>
+          <Count>230</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)...">
