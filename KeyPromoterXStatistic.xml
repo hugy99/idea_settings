@@ -694,7 +694,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止 'Tomcat 8.5.31'</Description>
-          <Count>93</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="停止 'Tomcat'">
@@ -726,7 +726,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>关闭所有窗口(W)</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="切换行断点(L)">
@@ -734,7 +734,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>切换行断点(L)</Description>
-          <Count>75</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="删除...(D)">
@@ -758,7 +758,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+ 按钮 1 单击' or ' 按钮 2 单击'</ShortCut>
           <Description>声明(D)</Description>
-          <Count>144</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="复制(C)">
@@ -790,7 +790,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+ 按钮 1 单击'</ShortCut>
           <Description>实现(M)</Description>
-          <Count>98</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="恢复程序(G)">
@@ -822,7 +822,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>更新 Project(U)</Description>
-          <Count>233</Count>
+          <Count>234</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)...">
