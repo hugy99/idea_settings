@@ -937,6 +937,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="运行(U) 'OrganizationGr....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>运行(U) 'OrganizationGr....main()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="运行(U) 'Tomcat 8.5.31'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
