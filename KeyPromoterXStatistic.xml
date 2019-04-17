@@ -758,7 +758,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+ 按钮 1 单击' or ' 按钮 2 单击'</ShortCut>
           <Description>声明(D)</Description>
-          <Count>156</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="复制(C)">
@@ -790,7 +790,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+ 按钮 1 单击'</ShortCut>
           <Description>实现(M)</Description>
-          <Count>102</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="恢复程序(G)">
