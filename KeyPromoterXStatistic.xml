@@ -742,7 +742,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>删除...(D)</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="剪切(T)">
@@ -822,7 +822,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>更新 Project(U)</Description>
-          <Count>259</Count>
+          <Count>260</Count>
         </Item>
       </Statistic>
       <Statistic Action="更新 Project(U)...">
