@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="IDE 和插件更新" displayType="NONE" />
     <notification groupId="Settings Repository" displayType="NONE" />
   </component>
 </application>
