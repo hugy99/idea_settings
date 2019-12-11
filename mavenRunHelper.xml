@@ -5,7 +5,7 @@
         <option name="goals">
           <list>
             <Goal>
-              <option name="commandLine" value="clean install" />
+              <option name="commandLine" value="clean install -DskipTests" />
             </Goal>
             <Goal>
               <option name="commandLine" value="clean" />
