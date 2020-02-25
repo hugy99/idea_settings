@@ -22,6 +22,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="translator" value="fanyi.baidu" />
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
