@@ -8,7 +8,7 @@
               <option name="commandLine" value="clean install -DskipTests" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="clean package -U -e -DskipTests" />
+              <option name="commandLine" value="clean install -U -e -DskipTests" />
             </Goal>
             <Goal>
               <option name="commandLine" value="clean deploy -DskipTests" />
